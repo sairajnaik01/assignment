@@ -1,0 +1,2 @@
+Graph contains negative weight cycle
+Execution Time : 0.000255

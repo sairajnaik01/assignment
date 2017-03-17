@@ -1,0 +1,17 @@
+Vertex   Distance from Source
+0		0
+1		73
+2		99
+3		85
+4		65
+5		74
+6		49
+7		98
+8		10
+9		59
+10		18
+11		82
+12		52
+13		35
+14		106
+Execution Time : 4e-05
